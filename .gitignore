@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.pytest_tmp/
+reproduce/out/
+tpch/out/
+sqlshare/data/
+sqlshare/work/
+sqlshare/results/
+sqlshare/logs/
+*.duckdb
+*.duckdb.wal
